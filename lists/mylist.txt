@@ -17,9 +17,9 @@ https://secure.fanboy.co.nz/fanboy-annoyance.txt
 # All sorts of AdGuard filters from Filterlists dot com and AdGuard's Github page
 # https://filters.adtidy.org/extension/ublock/filters/1.txt
 https://filters.adtidy.org/extension/ublock/filters/2.txt
-https://filters.adtidy.org/extension/ublock/filters/14.txt
+# https://filters.adtidy.org/extension/ublock/filters/14.txt
 https://filters.adtidy.org/extension/ublock/filters/11.txt
-https://filters.adtidy.org/extension/ublock/filters/4.txt
+# https://filters.adtidy.org/extension/ublock/filters/4.txt
 https://filters.adtidy.org/extension/ublock/filters/3.txt
 https://filters.adtidy.org/extension/ublock/filters/115_optimized.txt
 # https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt
