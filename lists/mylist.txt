@@ -12,7 +12,7 @@ https://easylist.to/easylist/easylist.txt
 https://easylist.to/easylist/easyprivacy.txt
 # https://easylist.to/easylist/fanboy-social.txt
 https://secure.fanboy.co.nz/fanboy-annoyance.txt
-https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
+# https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
 
 # All sorts of AdGuard filters from Filterlists dot com and AdGuard's Github page
 # https://filters.adtidy.org/extension/ublock/filters/1.txt
@@ -34,4 +34,4 @@ https://curben.gitlab.io/malware-filter/pup-filter.txt
 https://curben.gitlab.io/malware-filter/tracking-filter.txt
 
 # URL shortener
-# https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
