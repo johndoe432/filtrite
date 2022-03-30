@@ -34,4 +34,4 @@ https://curben.gitlab.io/malware-filter/pup-filter.txt
 https://curben.gitlab.io/malware-filter/tracking-filter.txt
 
 # URL shortener
-https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
+# https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
